@@ -18,12 +18,12 @@
 
 ```javascript
 const arroiz = {
-  "👤": ["he", "him"],
-  "💻": ["Javascript", "Typescript", "HTML", "CSS"],
-  "🔧": ["React", "Vue", "Node", "React-Native","Storybook", "Jest", "Docker"],
-  "📙": ["Go", "Elixir", "swift"],
-  "🎵": ["❤️ blink-182", "pop punk", "indie rock"],
-  "🎮": ["Zelda BOTW", "God of War", "Tetris" ],
-  "📺": ["hunter x hunter", "Naruto", "Haikyuu" ],
+  👤: ["he", "him"],
+  💻: ["Javascript", "Typescript", "HTML", "CSS"],
+  🔧: ["React", "Vue", "Node", "React-Native","Storybook", "Jest", "Docker"],
+  📙: ["Go", "Elixir", "swift"],
+  🎵: ["❤️ blink-182", "pop punk", "indie rock"],
+  🎮: ["Zelda BOTW", "God of War", "Tetris" ],
+  📺: ["hunter x hunter", "Naruto", "Haikyuu" ],
 }
 ```
