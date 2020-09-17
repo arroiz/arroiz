@@ -1,4 +1,4 @@
-<img align='right' src='https://media1.giphy.com/media/tZXV9cm7cyOUFiwDf9/giphy.gif' width='200"' style="-webkit-transform: scaleX(-1); transform: scaleX(-1);">
+<img align='right' src='https://github.com/arroiz/arroiz/blob/master/onigiri.gif?raw=true' width='200"'>
 
 # hey, arroiz here
 <a href="https://twitter.com/arrroiz">
@@ -14,8 +14,6 @@
   <img align="left" alt="arroiz's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br />
-
-### about me
 
 ```javascript
 const arroiz = {
