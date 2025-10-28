@@ -1,4 +1,4 @@
-<img alt="A GIF of a skeleton dancing." src="https://github.com/arroiz/arroiz/blob/master/skeleton%20dance.gif?raw=true" width="100%">
+<img alt="A GIF of a skeleton dancing." src="https://github.com/arroiz/arroiz/blob/master/skeleton%20dance.gif" width="100%">
 
 <!-- <img align='right' src='https://github.com/arroiz/arroiz/blob/master/onigiri.gif?raw=true' width='200"'>
 
